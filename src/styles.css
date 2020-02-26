@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(105, 201, 196);
+}
+
+.App {
+  font-family: Andale Mono, monospace;
+  font-size: 18pt;
+  text-align: center;
+  padding: 200px 0;
+}
